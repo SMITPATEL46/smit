@@ -5,7 +5,7 @@ print("connected...")
 s=d.cursor()
 
 # s.execute("update f set name='ram' where id=2")
-# print("insertedd...")
+print("hii")
 # s.execute("select * from f")
 # r=s.fetchall()
 s.execute("show tables")
